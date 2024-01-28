@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469912997265",
+    "project_id": "consultme-2be0e",
+    "storage_bucket": "consultme-2be0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469912997265:android:95da741b95b76e64c61e30",
+        "android_client_info": {
+          "package_name": "com.example.consultMe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3StQIjdMxZt-1WorB-GDzZ4doOjG1hbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
